@@ -1,0 +1,77 @@
+body{
+background-color:rgb(0, 43, 28);    
+}
+h1.fun {
+    color: rgb(255, 255, 255);
+padding: 15px;
+font-size: xx-large;
+}
+p {
+color: aliceblue;
+background-color:rgb(51, 151, 98);
+border-style: groove;
+border-color: aliceblue;
+padding: 20px;
+line-height: 1.7;
+text-align: left;
+}
+
+
+div.imagegrid{
+    display: flex;
+    gap:20px;
+}
+div.section{
+    flex: 1;
+}
+div.row{
+      display: flex;
+      gap: 20px;
+}
+div.col{
+    flex:1;
+}   
+h2
+{
+color: aliceblue;
+background-color: rgb(51, 151, 98);
+border-style: solid;
+padding: 15px;
+}
+h4{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+li
+{color: aliceblue;}
+.fun {
+color: aliceblue;
+background-color: rgb(51,151,98);
+border-style: inset;
+border-color: aliceblue;
+font-size: large;
+padding: 5px;
+background-color: rgb(51, 151, 98);
+border-style: solid;
+border-color: whitesmoke;
+}
+#img
+{
+    border: 7px;
+    border-color: aliceblue;
+    border-style: solid;
+}
+a
+{
+color: aliceblue;
+background-color: rgb(51, 151, 98);
+border-style: solid;
+padding: 15px;
+}
+h1{
+    color: aliceblue;
+    background-color: rgb(51, 151, 98);
+    border: solid;
+}
